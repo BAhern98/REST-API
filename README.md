@@ -1,5 +1,5 @@
 # REST-API
-This project is a RESTful API developed using springf framework that aslo utilkitises other third party APIs to add additional functionality. 
+This project is a RESTful API developed using spring framework that aslo utilises other third party APIs to add additional functionality. 
 
 This REST API was made using 
 
