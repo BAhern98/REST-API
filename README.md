@@ -3,11 +3,11 @@ This project is a RESTful API developed using spring framework that also utilise
 
 This REST API was made using 
 
-* Spring MVC
-* MAVEN to manage all dependencies
-* Java Persistence API(JPA) to create Entity and Named Queries
-* Tomcat Server
-* Has universal error handling using @ControllerAdvice annotation
+* Spring MVC.
+* MAVEN to manage all dependencies.
+* Java Persistence API(JPA) to create Entity and Named Queries.
+* Tomcat Server.
+* Has universal error handling using @ControllerAdvice annotation.
 
 
 Functionality of this project include
